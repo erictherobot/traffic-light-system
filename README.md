@@ -4,7 +4,7 @@ This project implements a simple traffic light system in Ada.
 
 ## Prerequisites
 
-To compile and run this project, you need to have the GNAT Ada compiler installed on your system. You can download and install GNAT from the official AdaCore website: [https://www.adacore.com/gnat](https://www.adacore.com/gnat)
+To compile and run this project, you need to have the GNAT Ada compiler installed on your system. You can download and install GNAT from the official AdaCore website: [https://www.adacore.com/download](https://www.adacore.com/download)
 
 ## Compilation
 
